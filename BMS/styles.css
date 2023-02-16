@@ -1,0 +1,30 @@
+body {
+    font-family: 'Source Sans Pro', sans-serif;
+    color: black;
+    background-color: white;
+}
+
+#movebox {
+    border-radius: 0.5em;
+    border: 2px solid;
+    width: 600px;
+    height: 300px;
+    margin: auto;
+    text-align: center;
+    line-height: 300px;
+    user-select: none;
+}
+
+#bar {
+    width:500px;
+    height:150px;
+}
+
+.dark-mode {
+    background-color: black;
+    color: white;
+  }
+
+.dark-mode-mvbx {
+    border: 2px solid white;
+}
